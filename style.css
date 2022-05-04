@@ -14,8 +14,9 @@ body {
 }
 
 #profile-pic {
-  height: 100px;
+  height: 300px;
   width: auto;
+  border-radius: 5px;
 }
 
 p {
