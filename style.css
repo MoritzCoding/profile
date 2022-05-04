@@ -32,7 +32,19 @@ a {
   color: #758ECD;
 }
 
+.card-social a {
+  text-decoration: none;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  font-size: 35px;
+  color: #758ECD;
+}
+
 a:hover {
+  color: #435074;
+}
+
+.card-social a:hover {
   color: #435074;
 }
 
